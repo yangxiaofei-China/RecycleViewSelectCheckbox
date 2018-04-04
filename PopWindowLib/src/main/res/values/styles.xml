@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:listDivider">@drawable/item_divider</item>
+    </style>
+
+    <style name="popwindow_anim_style">
+        <item name="android:windowEnterAnimation">@anim/popshow</item>
+        <item name="android:windowExitAnimation">@anim/pophide</item>
+    </style>
+    <!--设置整体字体样式-->
+   <!-- <style name="MyButtonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">@color/sf_textcolor</item>
+        <item name="android:textSize">@dimen/textsize_common</item>
+    </style>-->
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="reset">reset</string>
+    <string name="confirm">confirm</string>
+    <string name="title">title</string>
+    <string name="today">today</string>
+    <string name="week">this week</string>
+    <string name="month">this month</string>
+    <string name="year">this year</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#c3c3c3</color>
+    <color name="green">#2ed184</color>
+    <color name="strokeColor">#dedede</color>
+    <color name="listTextColor">#2d2d2d</color>
+    <color name="yellow">#f1b31d</color>
+    <color name="blue">#0693ff</color>
+    <color name="button_blue">#06b4ff</color>
+    <color name="background_gray">#F5F5F5</color>
+    <color name="lableTextColor">#34b4fe</color>
+</resources>
